@@ -10,7 +10,6 @@
 	<div class="box">
 		<h1>Spring Legacy</h1>
 		<hr>
-		<h2>${message}</h2>
 		<p>서버 시간: ${serviceTime }</p>
 	</div>
 </body>
